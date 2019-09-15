@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/microsoft/go-winio"
-	"github.com/microsoft/go-winio/archive/tar"
+	"github.com/innovative-sol/go-winio-innovative"
+	"github.com/innovative-sol/go-winio-innovative/archive/tar"
 )
 
 func ensurePresent(t *testing.T, m map[string]string, keys ...string) {

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/microsoft/go-winio/pkg/etw"
-	"github.com/microsoft/go-winio/pkg/guid"
+	"github.com/innovative-sol/go-winio-innovative/pkg/etw"
+	"github.com/innovative-sol/go-winio-innovative/pkg/guid"
 	"github.com/sirupsen/logrus"
 )
 

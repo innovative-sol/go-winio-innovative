@@ -7,7 +7,7 @@ import (
 	"encoding/binary"
 	"unsafe"
 
-	"github.com/microsoft/go-winio/pkg/guid"
+	"github.com/innovative-sol/go-winio-innovative/pkg/guid"
 	"golang.org/x/sys/windows"
 )
 

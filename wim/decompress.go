@@ -5,7 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/microsoft/go-winio/wim/lzx"
+	"github.com/innovative-sol/go-winio-innovative/wim/lzx"
 )
 
 const chunkSize = 32768 // Compressed resource chunk size

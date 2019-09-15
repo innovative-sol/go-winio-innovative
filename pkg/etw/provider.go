@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/microsoft/go-winio/pkg/guid"
+	"github.com/innovative-sol/go-winio-innovative/pkg/guid"
 	"golang.org/x/sys/windows"
 )
 
