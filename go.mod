@@ -1,4 +1,5 @@
-module github.com/innovative-sol/go-winio-innovative
+module github.com/microsoft/go-winio
+//module github.com/innovative-sol/go-winio-innovative
 
 go 1.12
 
